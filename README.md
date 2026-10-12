@@ -1,6 +1,6 @@
-# Awesome Chinese Skills · 中文垂直 Agent 技能合集 Top 10
+# Awesome Chinese Skills · 中文垂直 Agent 技能合集 Top 12
 
-让 Claude Code / Codex / Qoder / Cursor 等 Agent 直接学会 10 项中文场景的"接单级"手艺。每个技能都是一套带触发词、分步流程、输出格式和红线的标准 SKILL.md。
+让 Claude Code / Codex / Qoder / Cursor 等 Agent 直接学会 12 项中文场景的"接单级"手艺。每个技能都是一套带触发词、分步流程、输出格式和红线的标准 SKILL.md。
 
 英文技能生态很强，但**中文的甲方要的东西英文技能不会做**：公众号去AI味、小红书爆款、考研复试、私域社群——这个合集补的就是这个缺口。
 
@@ -18,6 +18,10 @@
 | 8 | [hetong-shencha](hetong-shencha/SKILL.md) | 合同风险预审：分级标注+谈判话术 | "看合同"、"有没有坑" |
 | 9 | [ppt-storyline](ppt-storyline/SKILL.md) | 咨询级 PPT 故事线与逐页大纲 | "汇报大纲"、"述职" |
 | 10 | [shequ-neirong-rili](shequ-neirong-rili/SKILL.md) | 私域社群一周内容日历 | "社群运营"、"群里没人说话" |
+| 11 | [fengchuan-jiancha](fengchuan-jiancha/SKILL.md) 📚 | 内容疯传性检查（《疯传》STEPPS 六原则打分+改写） | "会不会火"、"转发少" |
+| 12 | [feibaoli-goutong](feibaoli-goutong/SKILL.md) 📚 | 非暴力沟通对话翻译（冲突原话→四步句式） | "吵架怎么回"、"沟通不炸" |
+
+📚 = 方法论书籍蒸馏系列（框架来自书，文字全部自研）。
 
 ## 安装
 
